@@ -1,11 +1,30 @@
-h1, h2{
-    text-align:center 
+h1{
+    color: yellow;
+    text-shadow: 5px 5px black;
+    font-size: 10ch;
+    text-align:center ;
+    font-family: 'Germania One', cursive;
+}
+
+
+h2{
+
+    font-size: 5ch;
+    text-align:center ;
+    font-family: 'Germania One', cursive;
 
 }
 img{
 
-    margin-left: auto;
+    margin-left: 45%;
+    height: 10rem;
+    
 
+}
+
+a{
+    font-family: 'Germania One', cursive;
+    text-decoration: none;
 }
 body{
 
