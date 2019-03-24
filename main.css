@@ -31,3 +31,34 @@ body{
     background-image: url('http://www.itaniumsolutions.org/pics/max/130/1300235_wallpaper-empresa.jpg')
 
 }
+a:link{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: white;
+}
+a:active{
+    color:yellow;
+}
+.news, h4{
+    text-align: right;
+    text-align: end;
+    color: red;
+}
+.btn {
+    background-color:yellow;
+    border: none;
+    color: #0c0c0c;
+    padding: 15px 32px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 50%;
+
+}
+.btn:hover{
+        background-color: #aafff8; 
+        
+}
