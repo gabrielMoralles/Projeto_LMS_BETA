@@ -22,43 +22,45 @@ img{
 
 }
 
-a{
-    font-family: 'Germania One', cursive;
-    text-decoration: none;
-}
 body{
 
-    background-image: url('http://www.itaniumsolutions.org/pics/max/130/1300235_wallpaper-empresa.jpg')
+    background-image: url('http://www.itaniumsolutions.org/pics/max/130/1300235_wallpaper-empresa.jpg');
 
 }
-a:link{
-    color: black;
-}
-a:visited{
-    color: black;
-}
-a:hover{
-    color: white;
-}
-a:active{
-    color:yellow;
-}
-.news, h4{
-    text-align: right;
-    text-align: end;
-    color: red;
-}
-.btn {
-    background-color:yellow;
-    border: none;
-    color: #0c0c0c;
-    padding: 15px 32px;
-    font-size: 16px;
-    cursor: pointer;
-    border-radius: 50%;
 
-}
 .btn:hover{
         background-color: #aafff8; 
         
+}
+ul{
+
+    width: 100%;
+    background-color: #1404fd;
+
+}
+ul,li{
+    display: flex;
+    flex-direction: row;
+    
+
+}
+
+a{
+
+    font-size: 3ch;
+    color: yellow;
+    text-shadow: 0px 1px black; 
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 2px;
+
+
+}
+
+a:hover {
+
+    background-color: yellow;
+    color: #1404fd
+
+
 }
