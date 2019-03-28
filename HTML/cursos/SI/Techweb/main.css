@@ -1,0 +1,127 @@
+h1{
+    color: yellow;
+    text-shadow: 5px 5px black;
+    font-size: 10ch;
+    text-align:center ;
+    font-family: 'Germania One', cursive;
+    margin: 3rem;
+}
+
+
+h2{
+
+    font-size: 5ch;
+    text-align:center ;
+    font-family: 'Germania One', cursive;
+    top:50%;
+}
+.imagem{
+
+    margin-left: 25%;
+    height: 15rem;
+    
+    
+
+}
+
+body{
+
+    background-image: url('http://www.itaniumsolutions.org/pics/max/130/1300235_wallpaper-empresa.jpg');
+
+}
+
+.btn:hover{
+        background-color: #aafff8; 
+        
+
+}
+ul,li,p{
+    display: flex;
+    flex-direction: row;
+    top: 1000rem;
+    color: yellow;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Germania One', cursive;
+    border:black
+}
+
+a{
+    color: yellow;
+    font-size:10px;
+    text-align: center;
+
+}
+
+.navli:hover {
+    border-radius: 20px;
+    background-color: yellow;
+    color: #1404fd;
+    padding: 
+
+
+}
+.imagemNav{
+    float: left;
+    height: 50px;
+}
+
+.linkCursos{
+
+    font-size: 3ch;
+    text-shadow: 3px 3px black;
+
+}
+.linkCursos:hover{
+
+    color: #1404fd;
+    text-shadow: yellow;
+
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    border-radius: 20px;
+    
+    color: #1404fd;
+    font-size: 4ch;
+    color: yellow;
+    text-shadow: 0px 1px black; 
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 2px;
+    border-color:black;
+
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #1504fd96;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+    border-radius: 10px;
+    border-color: black;
+    font-size: 10px;
+    opacity: 50%;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+    border-color:black;
+fonteimpacta{
+    color:yellow;
+}
