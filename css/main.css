@@ -30,14 +30,10 @@ body{
 }
 
 .btn:hover{
-        background-color: #aafff8; 
-        
-}
+    background-color: #aafff8; 
+        }
 ul{
-
-    
-
-    background-color: #1404fd;
+      background-color: #1404fd;
 
 }
 ul,li{

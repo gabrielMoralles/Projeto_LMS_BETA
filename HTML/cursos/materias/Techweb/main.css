@@ -54,6 +54,7 @@ a{
 }
 
 
+
 .imagemNav{
     float: left;
     height: 50px;
@@ -115,6 +116,7 @@ footer {
   .dropdown:hover .dropdown-content {
     display: block;
     border-color:black;
+
 fonteimpacta{
     color:yellow;
 }
